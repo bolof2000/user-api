@@ -1,0 +1,1 @@
+ docker run --rm -p 9004:9004 --name user-service  -d user-service-01
